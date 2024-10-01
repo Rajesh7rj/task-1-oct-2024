@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/task-1-oct-2024/static/js/main.5651fc1d.js",
+    "main.js": "/task-1-oct-2024/static/js/main.b89e4e69.js",
     "index.html": "/task-1-oct-2024/index.html",
-    "main.5651fc1d.js.map": "/task-1-oct-2024/static/js/main.5651fc1d.js.map"
+    "main.b89e4e69.js.map": "/task-1-oct-2024/static/js/main.b89e4e69.js.map"
   },
   "entrypoints": [
-    "static/js/main.5651fc1d.js"
+    "static/js/main.b89e4e69.js"
   ]
 }
